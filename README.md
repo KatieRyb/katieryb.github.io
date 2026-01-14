@@ -11,6 +11,8 @@ I am majoring in Biochemistry and English. Here are a few of my favorite courses
 - ENGL
 - something else idk
 
+Love**is**bold
+
 #### Programming Background
 I have taken some courses on java before 
 | Language  | Experience |
