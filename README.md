@@ -17,10 +17,10 @@ Love**is**bold
 I have taken some courses on java before 
 | Language  | Experience |
 | ------------- | ------------- |
-| Java  | Intermediate  |
-| Python  | Intermediate  |
-| HTML  | Minimal  |
-| SQL  | What  |
+ Java  | Intermediate  
+ Python  | Intermediate  
+ HTML  | Minimal  
+ SQL  | What  
 
 Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
