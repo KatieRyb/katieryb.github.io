@@ -2,7 +2,7 @@
 
 ## About Me
 
-# Hello, I am Katie Rybakova. I am a student at University of Washington.
+Hello, I am Katie Rybakova. I am a student at University of Washington.
 
 #### Academics
 
