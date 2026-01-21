@@ -15,7 +15,7 @@ Love**is**bold
 
 #### Programming Background
 I have taken some courses on java before 
-| Language  | Experience |
+Language  | Experience 
 | ------------- | ------------- |
  Java  | Intermediate  
  Python  | Intermediate  
