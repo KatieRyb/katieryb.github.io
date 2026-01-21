@@ -4,7 +4,7 @@
 
 Hello, I am Katie Rybakova. I am a student at University of Washington. My favorite fruit are **apples**.
 
-![Look at all those apples!](apples.webp)
+![Look at all those apples!](Apples.jpg)
 
 #### Academics
 
