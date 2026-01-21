@@ -2,7 +2,9 @@
 
 ## About Me
 
-Hello, I am Katie Rybakova. I am a student at University of Washington.
+Hello, I am Katie Rybakova. I am a student at University of Washington. My favorite fruit are apples.
+
+![Look at all those apples!](apples.webp)
 
 #### Academics
 
@@ -13,15 +15,10 @@ I am majoring in Biochemistry and English. Here are a few of my favorite courses
 
 Love**is**bold
 
+
+
 #### Programming Background
 I have taken some courses on java before 
-Language  | Experience 
-| ------------- | ------------- |
- Java  | Intermediate  
- Python  | Intermediate  
- HTML  | Minimal  
- SQL  | What  
-
  Language | Experience 
 --- | --- | --- | --- |
 Java | Intermediate 
