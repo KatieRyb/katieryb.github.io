@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, I am Katie Rybakova. I am a student at University of Washington. My favorite fruit are apples.
+Hello, I am Katie Rybakova. I am a student at University of Washington. My favorite fruit are **apples**.
 
 ![Look at all those apples!](apples.webp)
 
@@ -12,8 +12,6 @@ I am majoring in Biochemistry and English. Here are a few of my favorite courses
 - BIOL
 - ENGL
 - something else idk
-
-Love**is**bold
 
 
 
