@@ -19,10 +19,10 @@ I am majoring in Biochemistry and English. Here are a few of my favorite courses
 I have taken some courses on java before 
  Language | Experience 
 --- | --- | --- | --- |
-Java | Intermediate 
+Java | Intermediate
 Python  | Intermediate
 HTML  |  Minimal
-SQL  |  What  
+SQL  |  What
 
 [Check out more about my hobbies here!](https://katieryb.github.io/about)
 
