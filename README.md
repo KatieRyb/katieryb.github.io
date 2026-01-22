@@ -24,5 +24,12 @@ I have taken some courses on java before
 | HTML | Minimal |
 | SQL | What |
 
+
+| Category 1 | Category 2 |
+| :--------- | :--------- |
+| **High** | **Low** |
+| **Value A** | Value C |
+| **Value B** | Value D |
+
 [Check out more about my hobbies here!](https://katieryb.github.io/about)
 
