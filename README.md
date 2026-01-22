@@ -17,12 +17,7 @@ I am majoring in Biochemistry and English. Here are a few of my favorite courses
 
 ### Programming Background
 I have taken some courses on java before 
-| Language | Experience |
-|----------|----------|
-| Java | Intermediate |
-| Python | Intermediate |
-| HTML | Minimal |
-| SQL | What |
+
 
 | Language | Experience |
 | :--------- | :--------- |
@@ -30,13 +25,6 @@ I have taken some courses on java before
 | Python | Intermediate |
 | HTML | Minimal |
 | SQL | What |
-
-
-| Category 1 | Category 2 |
-| :--------- | :--------- |
-| **High** | **Low** |
-| **Value A** | Value C |
-| **Value B** | Value D |
 
 [Check out more about my hobbies here!](https://katieryb.github.io/about)
 
