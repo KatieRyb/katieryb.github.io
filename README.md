@@ -25,10 +25,12 @@ HTML  |  Minimal
 SQL  |  What
 
 
-| Header 1 | Header 2 |
+| Language | Experience |
 |----------|----------|
-| Cell 1,1 | Cell 1,2 |
-| Cell 2,1 | Cell 2,2 |
+| Java | Intermediate |
+| Python | Intermediate |
+| HTML | Minimal |
+| SQL | What |
 
 [Check out more about my hobbies here!](https://katieryb.github.io/about)
 
