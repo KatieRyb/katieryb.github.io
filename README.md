@@ -24,15 +24,11 @@ Python  | Intermediate
 HTML  |  Minimal
 SQL  |  What
 
-| Language | Experience |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-Java | Intermediate
-Python  | Intermediate
-HTML  |  Minimal
-SQL  |  What
 
-
-| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
+| Header 1 | Header 2 |
+|----------|----------|
+| Cell 1,1 | Cell 1,2 |
+| Cell 2,1 | Cell 2,2 |
 
 [Check out more about my hobbies here!](https://katieryb.github.io/about)
 
