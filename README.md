@@ -24,6 +24,13 @@ I have taken some courses on java before
 | HTML | Minimal |
 | SQL | What |
 
+| Language | Experience |
+| :--------- | :--------- |
+| Java | Intermediate |
+| Python | Intermediate |
+| HTML | Minimal |
+| SQL | What |
+
 
 | Category 1 | Category 2 |
 | :--------- | :--------- |
